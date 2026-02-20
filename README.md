@@ -4,8 +4,7 @@ A modern **food delivery platform** built with the **MERN Stack** (MongoDB, Expr
 Customers can explore menus, add items to their cart, place orders, track delivery status, and make secure payments — all in one responsive web app.
 Includes a **dedicated Admin Panel** for managing menu items and orders, and multiple **encryption layers** to ensure user and payment security.
 
-🚀 **Live Demo:** [food-del-frontend-7vmr.onrender.com](https://food-del-frontend-7vmr.onrender.com)
-
+🚀 **Live Demo:** food-delivery-app1-beta.vercel.app/
 -------------
 
 ## 🔍 **Features**
@@ -81,3 +80,4 @@ tomato-food-app/
 * **Scalable Architecture:** Clean separation of frontend, admin, and backend
 
 ---
+
